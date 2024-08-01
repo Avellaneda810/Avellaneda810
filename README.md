@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Gabriel Avellaneda</h1>
-<h3 align="center">A passionate Software engineer and Computer science student from Argentina</h3>
+<h3 align="center">A passionate Software engineering and Computer science student from Argentina</h3>
 
 - 🔭 I’m currently working on [Programación Lógica en la Escuela Primaria](https://www.fi.uncoma.edu.ar/index.php/extension/proyectos-de-extension-vigentes/programacion-logica-en-la-escuela-primaria/)
 
